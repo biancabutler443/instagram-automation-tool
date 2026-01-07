@@ -2,14 +2,6 @@
 
 **Author and Developer: Bianca Butler**
 
-<img src="https://i.imgur.com/T0dfIyQ.gif" width="100">
-
-[![Telegram Chat](https://img.shields.io/badge/telegram-join%20chat-informational.svg)](https://github.com/linkfy/Tools-for-Instagram/wiki/Access-telegram-group)
-[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LinkStudios/10)
-![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/tools-for-instagram)
-![NPM](https://img.shields.io/npm/l/tools-for-instagram)
-![npm](https://img.shields.io/npm/dt/tools-for-instagram)
-
 ## ☕ Support & Premium Tools
 
 If you found this tool helpful, please consider supporting the development and discover other premium tools:
